@@ -27,6 +27,7 @@ comm_get.py、YouTube API keyの取得は[1]を参考にした。
 ![スクリーンショット 2024-01-08 214614](https://github.com/taisei527/youtube_comment/assets/134770116/dce4eae1-db8d-4a2d-8889-04b42ce9d479)
 
 プログラムの使用は自己責任でお願いします。
+
 [1] https://qiita.com/iroiro_bot/items/ad0f3901a2336fe48e8f
 
 
