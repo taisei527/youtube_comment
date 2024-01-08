@@ -21,4 +21,6 @@ youtube live などにおいて、人気配信は大量のコメントが押し�
 必要なライブラリをインストール後、comm_get.pyのYT_API_KEYにYouTube API keyを入力する。
 comm_get.py、YouTube API keyの取得は[1]を参考にした。
 
+![youtbelive_soft](https://github.com/taisei527/youtube_comment/assets/134770116/dd43166f-0aa0-45dc-8a90-c1337096567c)
+
 [1] https://qiita.com/iroiro_bot/items/ad0f3901a2336fe48e8f
