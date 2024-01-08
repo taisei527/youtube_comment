@@ -22,6 +22,7 @@ youtube live などにおいて、人気配信は大量のコメントが押し�
 comm_get.py、YouTube API keyの取得は[1]を参考にした。
 
 実行すると、画像のように左のyoutube liveのコメントから取得した頻出コメントが右のソフトのオススメに表示される。
+私の実行環境では、1秒間に5コメント程度のストリームにおいて十分に余裕をもって処理できた。
 ![スクリーンショット 2024-01-08 214614](https://github.com/taisei527/youtube_comment/assets/134770116/dce4eae1-db8d-4a2d-8889-04b42ce9d479)
 
 
